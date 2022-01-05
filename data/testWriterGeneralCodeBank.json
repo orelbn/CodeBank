@@ -1,0 +1,20 @@
+{
+    "code snippets": [
+        {
+            "code body": "print(\"Hi\")",
+            "title": "Say Hi",
+            "coding language": "Python"
+        },
+        {
+            "code body": "System.out.println(\"Bye\")",
+            "title": "Say Bye",
+            "coding language": "Java"
+        },
+        {
+            "code body": "System.out.println(\"bye\")",
+            "title": "Say bye",
+            "coding language": "Java"
+        }
+    ],
+    "name": "MyCodeBank"
+}
